@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://squzzyy.github.io/sitemap.xml
